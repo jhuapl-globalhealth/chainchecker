@@ -1,6 +1,10 @@
 ---
 name: "tagged-release"
 
+permissions:
+  actions: read|write
+  contents: read|write
+
 on:
   push:
     tags:
