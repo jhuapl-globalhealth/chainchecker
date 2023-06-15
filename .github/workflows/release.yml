@@ -1,9 +1,7 @@
 ---
 name: "tagged-release"
 
-permissions:
-  actions: read|write
-  contents: read|write
+permissions: read-all|write-all
 
 on:
   push:
