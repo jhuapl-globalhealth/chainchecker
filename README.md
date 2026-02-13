@@ -6,7 +6,7 @@ ChainChecker is a lightweight, offline analysis application designed to examine 
 
 ---
 
-## 🚀 Features & Capabilities  
+## Features & Capabilities  
 
 ### 1. **Offline Analysis**  
 - Works locally on your computer with no internet dependency or external servers.  
